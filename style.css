@@ -4,28 +4,28 @@ html {
 
 .About {
     text-align: center;
-    color: white;
+    color: purple;
 }
 
 .Jonathan {
     text-align: center;
-    color: white;
+    color: orangered;
 
 }
 
 .Dogs{
-    text-align: center;
-    color: white;
+    text-align: right;
+    color: yellowgreen;
 }
 
 .Cassie{
-    text-align: center;
+    text-align: right;
     color: white;
 }
 
 .BJJ{
-    text-align: center;
-    color: white;
+    text-align: -webkit-left;
+    color: lime;
 }
 
 
