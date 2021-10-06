@@ -14,17 +14,17 @@ html {
 }
 
 .Dogs{
-    text-align: right;
+    text-align: center;
     color: yellowgreen;
 }
 
 .Cassie{
-    text-align: right;
+    text-align: center;
     color: white;
 }
 
 .BJJ{
-    text-align: -webkit-left;
+    text-align: center;
     color: lime;
 }
 
